@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-161
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Bob Left Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-157
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Bob Right Alt",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Bob Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BobOGAlt",
+	"position": [
+		90,
+		130
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

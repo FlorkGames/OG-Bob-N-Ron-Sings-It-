@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-24,
+				-90
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Ron Alt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-102
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Ron Left Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-104
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Ron Right Alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RonOGAlt",
+	"position": [
+		100,
+		150
+	],
+	"healthicon": "ron",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		10,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

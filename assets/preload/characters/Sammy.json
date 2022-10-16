@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				391,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sammy Left"
+		},
+		{
+			"offsets": [
+				350,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sammy Down"
+		},
+		{
+			"offsets": [
+				334,
+				159
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sammy Up"
+		},
+		{
+			"offsets": [
+				361,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sammy Right"
+		},
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Sammy Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sammy",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "sammyicons",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		206,
+		255
+	],
+	"camera_position": [
+		-250,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

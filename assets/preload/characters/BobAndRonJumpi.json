@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				-370
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "Jumping",
+			"loop": false,
+			"name": "Devious Buggers"
+		},
+		{
+			"offsets": [
+				130,
+				180
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "Jump",
+			"loop": false,
+			"name": "Lil Deviousions jump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LilBuggers",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

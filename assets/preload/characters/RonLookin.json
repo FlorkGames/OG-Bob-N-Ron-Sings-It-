@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-90
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "RonLookin"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RonLookin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ron",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		280,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

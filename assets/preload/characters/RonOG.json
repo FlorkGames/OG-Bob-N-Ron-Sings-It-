@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-90
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Ron Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-111
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Ron Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-177
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Ron Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "Ron Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Ron Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RonOG",
+	"position": [
+		190,
+		130
+	],
+	"healthicon": "ron",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-260,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

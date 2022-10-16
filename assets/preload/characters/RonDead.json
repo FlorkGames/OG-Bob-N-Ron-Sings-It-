@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-90
+			],
+			"anim": "firstDeath",
+			"fps": 30,
+			"name": "Ron Dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-114,
+				-90
+			],
+			"anim": "deathLoop",
+			"fps": 30,
+			"name": "Dead Ron Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				-90
+			],
+			"anim": "deathConfirm",
+			"fps": 30,
+			"name": "Ron Alivent",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RonDead",
+	"position": [
+		-130,
+		120
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		330,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

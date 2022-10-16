@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Bob Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				-87
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Bob Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-159
+			],
+			"anim": "singLEFTALT",
+			"fps": 30,
+			"name": "Bob Left Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				-193
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Bob Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-160
+			],
+			"anim": "singRIGHTALT",
+			"fps": 30,
+			"name": "Bob Right Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Bob Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-104
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "Bob Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BobOG",
+	"position": [
+		200,
+		100
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-390,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
