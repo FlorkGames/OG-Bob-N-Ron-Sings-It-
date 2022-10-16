@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BobOGAlt.png">
+	
+	
+	<SubTexture name="Bob Idle0000" x="337" y="257" width="165" height="262" />
+	<SubTexture name="Bob Idle0001" x="337" y="519" width="165" height="262" />
+	<SubTexture name="Bob Idle0002" x="337" y="519" width="165" height="262" />
+	<SubTexture name="Bob Idle0003" x="337" y="257" width="165" height="262" />
+	<SubTexture name="Bob Idle0004" x="337" y="257" width="165" height="262" />
+	<SubTexture name="Bob Left Alt0000" x="168" y="0" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0001" x="168" y="0" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0002" x="168" y="257" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0003" x="168" y="257" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0004" x="168" y="514" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0005" x="168" y="514" width="168" height="257" />
+	<SubTexture name="Bob Left Alt0006" x="337" y="0" width="168" height="257" />
+	<SubTexture name="Bob Right Alt0000" x="0" y="0" width="168" height="258" />
+	<SubTexture name="Bob Right Alt0001" x="0" y="0" width="168" height="258" />
+	<SubTexture name="Bob Right Alt0002" x="0" y="258" width="168" height="258" />
+	<SubTexture name="Bob Right Alt0003" x="0" y="258" width="168" height="258" />
+	<SubTexture name="Bob Right Alt0004" x="0" y="516" width="168" height="258" />
+</TextureAtlas>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RonOG.png">
+	
+	
+	<SubTexture name="Ron Down0000" x="0" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0001" x="0" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0002" x="380" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0003" x="760" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0004" x="760" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0005" x="1140" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0006" x="1140" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0007" x="760" y="0" width="380" height="257" />
+	<SubTexture name="Ron Down0008" x="760" y="0" width="380" height="257" />
+	<SubTexture name="Ron Idle0000" x="613" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0001" x="613" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0002" x="816" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0003" x="816" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0004" x="1020" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0005" x="816" y="543" width="203" height="294" />
+	<SubTexture name="Ron Idle0006" x="816" y="543" width="203" height="294" />
+	<SubTexture name="Ron Left0000" x="1520" y="0" width="336" height="285" />
+	<SubTexture name="Ron Left0001" x="1520" y="0" width="336" height="285" />
+	<SubTexture name="Ron Left0002" x="0" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0003" x="336" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0004" x="336" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0005" x="672" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0006" x="672" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0007" x="1008" y="257" width="336" height="285" />
+	<SubTexture name="Ron Left0008" x="1008" y="257" width="336" height="285" />
+	<SubTexture name="Ron Right0000" x="0" y="543" width="306" height="250" />
+	<SubTexture name="Ron Right0001" x="0" y="543" width="306" height="250" />
+	<SubTexture name="Ron Right0002" x="306" y="543" width="306" height="250" />
+	<SubTexture name="Ron Right0003" x="306" y="543" width="306" height="250" />
+	<SubTexture name="Ron Up0000" x="1344" y="285" width="293" height="299" />
+	<SubTexture name="Ron Up0001" x="1344" y="285" width="293" height="299" />
+	<SubTexture name="Ron Up0002" x="1637" y="285" width="293" height="299" />
+	<SubTexture name="Ron Up0003" x="1637" y="285" width="293" height="299" />
+</TextureAtlas>

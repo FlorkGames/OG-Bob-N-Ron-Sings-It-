@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RonDead.png">
+	
+	
+	<SubTexture name="Dead Ron Loop0000" x="842" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0001" x="842" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0002" x="1215" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0003" x="1215" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0004" x="1589" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0005" x="1589" y="255" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0006" x="842" y="510" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0007" x="842" y="510" width="373" height="255" />
+	<SubTexture name="Dead Ron Loop0008" x="1215" y="510" width="373" height="255" />
+	<SubTexture name="Ron Alivent0000" x="1684" y="0" width="355" height="255" />
+	<SubTexture name="Ron Dies0000" x="0" y="0" width="421" height="255" />
+	<SubTexture name="Ron Dies0001" x="421" y="0" width="421" height="255" />
+	<SubTexture name="Ron Dies0002" x="842" y="0" width="421" height="255" />
+	<SubTexture name="Ron Dies0003" x="1263" y="0" width="421" height="255" />
+	<SubTexture name="Ron Dies0004" x="1263" y="0" width="421" height="255" />
+	<SubTexture name="Ron Dies0005" x="0" y="255" width="421" height="255" />
+	<SubTexture name="Ron Dies0006" x="0" y="255" width="421" height="255" />
+	<SubTexture name="Ron Dies0007" x="421" y="255" width="421" height="255" />
+</TextureAtlas>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LilBuggers.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Devious Buggers0000" x="0" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0001" x="0" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0002" x="942" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0003" x="942" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0004" x="1884" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0005" x="2826" y="2250" width="942" height="296"/>
+	<SubTexture name="Devious Buggers0006" x="2826" y="2250" width="942" height="296"/>
+	<SubTexture name="Lil Deviousions jump0000" x="0" y="0" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0001" x="0" y="0" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0002" x="1216" y="0" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0003" x="1216" y="0" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0004" x="2432" y="0" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0005" x="0" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0006" x="0" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0007" x="1216" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0008" x="1216" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0009" x="2432" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0010" x="2432" y="750" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0011" x="0" y="1500" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0012" x="1216" y="1500" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0013" x="1216" y="1500" width="1216" height="750"/>
+	<SubTexture name="Lil Deviousions jump0014" x="2432" y="1500" width="1216" height="750"/>
+</TextureAtlas>

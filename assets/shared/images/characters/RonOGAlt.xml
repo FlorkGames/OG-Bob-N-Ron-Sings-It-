@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RonOGAlt.png">
+	
+	
+	<SubTexture name="Ron Alt Idle0000" x="0" y="0" width="204" height="294" />
+	<SubTexture name="Ron Alt Idle0001" x="0" y="0" width="204" height="294" />
+	<SubTexture name="Ron Alt Idle0002" x="0" y="294" width="204" height="294" />
+	<SubTexture name="Ron Alt Idle0003" x="0" y="0" width="204" height="294" />
+	<SubTexture name="Ron Alt Idle0004" x="0" y="0" width="204" height="294" />
+	<SubTexture name="Ron Left Alt0000" x="0" y="589" width="179" height="288" />
+	<SubTexture name="Ron Left Alt0001" x="0" y="589" width="179" height="288" />
+	<SubTexture name="Ron Left Alt0002" x="179" y="589" width="179" height="288" />
+	<SubTexture name="Ron Left Alt0003" x="179" y="589" width="179" height="288" />
+	<SubTexture name="Ron Left Alt0004" x="204" y="0" width="179" height="288" />
+	<SubTexture name="Ron Left Alt0005" x="204" y="0" width="179" height="288" />
+	<SubTexture name="Ron Right Alt0000" x="204" y="288" width="178" height="288" />
+	<SubTexture name="Ron Right Alt0001" x="204" y="288" width="178" height="288" />
+	<SubTexture name="Ron Right Alt0002" x="359" y="576" width="178" height="288" />
+	<SubTexture name="Ron Right Alt0003" x="359" y="576" width="178" height="288" />
+	<SubTexture name="Ron Right Alt0004" x="382" y="288" width="178" height="288" />
+	<SubTexture name="Ron Right Alt0005" x="382" y="288" width="178" height="288" />
+</TextureAtlas>
