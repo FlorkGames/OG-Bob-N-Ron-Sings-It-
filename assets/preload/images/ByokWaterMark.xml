@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ByokWaterMark.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WaterMark instance 10000" x="0" y="0" width="1732" height="910"/>
+	<SubTexture name="WaterMark instance 10001" x="0" y="0" width="1732" height="910"/>
+	<SubTexture name="WaterMark instance 10002" x="0" y="0" width="1732" height="910"/>
+	<SubTexture name="WaterMark instance 10003" x="0" y="0" width="1732" height="910"/>
+	<SubTexture name="WaterMark instance 10004" x="0" y="0" width="1732" height="910"/>
+</TextureAtlas>
